@@ -1,0 +1,19 @@
+[Info  - 3:15:08 PM] 2023/09/23 15:15:08 go info for /home/student/projects
+(go dir /home/student/projects)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [-tags linux])
+(selected go env: [GO111MODULE=, GOCACHE=/home/student/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/student/go/pkg/mod, GOPATH=/home/student/go, GOPRIVATE=, GOROOT=/usr/local/go, GOWORK=])
+
+
+[Info  - 3:15:09 PM] 2023/09/23 15:15:09 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/student/projects
+	query=[/home/student/projects/... builtin]
+	packages=2
+
+[Info  - 3:15:09 PM] 2023/09/23 15:15:09 go/packages.Load #1: updating metadata for 43 packages
+
+[Info  - 3:15:14 PM] 2023/09/23 15:15:14 Shutdown session
+	shutdown_session=1
+

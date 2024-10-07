@@ -1,0 +1,58 @@
+[Info  - 12:11:35 AM] 2024/10/01 00:11:35 go info for /home/student/projects
+(go dir /home/student/projects)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/student/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/student/go/pkg/mod, GOPATH=/home/student/go, GOPRIVATE=, GOROOT=/usr/local/go, GOWORK=])
+
+
+[Info  - 12:11:35 AM] 2024/10/01 00:11:35 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/student/projects
+	query=[/home/student/projects/... builtin]
+	packages=2
+
+[Info  - 12:11:35 AM] 2024/10/01 00:11:35 go/packages.Load #1: updating metadata for 43 packages
+
+[Error - 12:11:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:11:35 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 12:12:05 AM] 2024/10/01 00:12:05 background imports cache refresh starting
+
+[Info  - 12:12:05 AM] 2024/10/01 00:12:05 background refresh finished after 87.862624ms
+
+[Info  - 12:13:18 AM] 2024/10/01 00:13:18 background imports cache refresh starting
+
+[Info  - 12:13:18 AM] 2024/10/01 00:13:18 background refresh finished after 8.993624ms
+
+[Error - 12:48:56 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:48:56 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:48:57 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:48:57 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:49:04 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 12:49:04 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 12:49:24 AM] 2024/10/01 00:49:24 background imports cache refresh starting
+
+[Info  - 12:49:24 AM] 2024/10/01 00:49:24 background refresh finished after 15.622238ms
+
+[Error - 10:50:58 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 11:45:07 AM] 2024/10/01 11:45:07 Shutdown session
+	shutdown_session=1
+

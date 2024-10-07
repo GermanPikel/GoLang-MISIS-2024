@@ -1,0 +1,16 @@
+2024-10-03 18:21:11.019 [info] 
+
+
+
+
+2024-10-03 18:21:11.031 [info] Extension host agent started.
+2024-10-03 18:21:11.093 [info] Deleted uninstalled extension from disk golang.go /home/student/.vscode-server/extensions/golang.go-0.39.1
+2024-10-03 18:21:11.377 [info] [127.0.0.1][b7f3407f][ManagementConnection] New connection established.
+2024-10-03 18:21:11.600 [info] [127.0.0.1][634ade0c][ExtensionHostConnection] New connection established.
+2024-10-03 18:21:12.107 [info] [127.0.0.1][634ade0c][ExtensionHostConnection] <61442> Launched Extension Host Process.
+2024-10-04 10:12:35.502 [info] [127.0.0.1][b7f3407f][ManagementConnection] The client has reconnected.
+2024-10-04 10:12:35.754 [info] [127.0.0.1][634ade0c][ExtensionHostConnection] The client has reconnected.
+2024-10-04 10:48:06.074 [info] [127.0.0.1][b7f3407f][ManagementConnection] The client has reconnected.
+2024-10-04 10:48:06.172 [info] [127.0.0.1][634ade0c][ExtensionHostConnection] The client has reconnected.
+2024-10-04 11:01:03.340 [info] [127.0.0.1][b7f3407f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-04 11:01:03.421 [info] [127.0.0.1][634ade0c][ExtensionHostConnection] <61442> Extension Host Process exited with code: 0, signal: null.

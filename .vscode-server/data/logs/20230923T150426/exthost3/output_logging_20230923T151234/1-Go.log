@@ -1,0 +1,19 @@
+Tools environment: GOPATH=/home/student/go
+Installing 7 tools at /home/student/go/bin in module mode.
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  golangci-lint
+  gopls
+
+Installing github.com/cweill/gotests/gotests@v1.6.0 (/home/student/go/bin/gotests) SUCCEEDED
+Installing github.com/fatih/gomodifytags@v1.16.0 (/home/student/go/bin/gomodifytags) SUCCEEDED
+Installing github.com/josharian/impl@v1.1.0 (/home/student/go/bin/impl) SUCCEEDED
+Installing github.com/haya14busa/goplay/cmd/goplay@v1.0.0 (/home/student/go/bin/goplay) SUCCEEDED
+Installing github.com/go-delve/delve/cmd/dlv@latest (/home/student/go/bin/dlv) SUCCEEDED
+Installing github.com/golangci/golangci-lint/cmd/golangci-lint@latest (/home/student/go/bin/golangci-lint) SUCCEEDED
+Installing golang.org/x/tools/gopls@latest (/home/student/go/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go. :)

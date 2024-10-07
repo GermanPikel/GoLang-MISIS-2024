@@ -1,0 +1,30 @@
+2024-10-01 00:08:55.471 [info] 
+
+
+
+
+2024-10-01 00:08:55.478 [info] Extension host agent started.
+2024-10-01 00:08:55.801 [info] [127.0.0.1][ae05959d][ManagementConnection] New connection established.
+2024-10-01 00:08:55.863 [info] [127.0.0.1][17446c91][ExtensionHostConnection] New connection established.
+2024-10-01 00:08:56.238 [info] [127.0.0.1][17446c91][ExtensionHostConnection] <3581> Launched Extension Host Process.
+2024-10-01 00:08:58.828 [info] Getting Manifest... golang.go
+2024-10-01 00:08:59.517 [info] Installing extension: golang.go
+2024-10-01 00:09:01.487 [warning] Extension signature verification failed with error 'ENOENT': golang.go
+2024-10-01 00:09:01.546 [info] Extracted extension to file:///home/student/.vscode-server/extensions/golang.go-0.42.1: golang.go
+2024-10-01 00:09:01.552 [info] Renamed to /home/student/.vscode-server/extensions/golang.go-0.42.1
+2024-10-01 00:09:01.554 [info] Extracting extension completed. golang.go
+2024-10-01 00:09:01.559 [info] Extension installed successfully: golang.go
+2024-10-01 00:09:01.564 [info] Marked extension as uninstalled golang.go-0.39.1
+2024-10-01 00:09:19.144 [info] [127.0.0.1][ae05959d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-01 00:09:19.149 [info] [127.0.0.1][17446c91][ExtensionHostConnection] <3581> Extension Host Process exited with code: 0, signal: null.
+2024-10-01 00:09:20.013 [info] [127.0.0.1][f9802e5e][ManagementConnection] New connection established.
+2024-10-01 00:09:20.187 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] New connection established.
+2024-10-01 00:09:20.194 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] <3716> Launched Extension Host Process.
+2024-10-01 10:49:02.158 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] The client has reconnected.
+2024-10-01 10:49:05.049 [info] [127.0.0.1][f9802e5e][ManagementConnection] The client has reconnected.
+2024-10-01 11:40:48.744 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] The client has reconnected.
+2024-10-01 11:40:48.845 [info] [127.0.0.1][f9802e5e][ManagementConnection] The client has reconnected.
+2024-10-01 11:44:59.062 [info] [127.0.0.1][f9802e5e][ManagementConnection] The client has reconnected.
+2024-10-01 11:44:59.160 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] The client has reconnected.
+2024-10-01 11:45:07.355 [info] [127.0.0.1][f9802e5e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-01 11:45:07.375 [info] [127.0.0.1][fab8a8e0][ExtensionHostConnection] <3716> Extension Host Process exited with code: 0, signal: null.

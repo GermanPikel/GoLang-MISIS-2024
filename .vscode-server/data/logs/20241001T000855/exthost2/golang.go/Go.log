@@ -1,0 +1,9 @@
+2024-10-01 00:11:03.669 [info] Tools environment: GOPATH=/home/student/go, GOTOOLCHAIN=auto
+2024-10-01 00:11:03.670 [info] Installing 1 tool at /home/student/go/bin
+2024-10-01 00:11:03.670 [info]   staticcheck
+2024-10-01 00:11:03.670 [info] 
+2024-10-01 00:11:34.794 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/student/go/bin/staticcheck) SUCCEEDED
+2024-10-01 00:11:34.797 [info] 
+2024-10-01 00:11:34.797 [info] All tools successfully installed. You are ready to Go. :)
+2024-10-01 00:11:34.927 [info] Try to start language server - activation (enabled: true)
+2024-10-01 00:11:35.022 [info] Running language server gopls(v0.13.2/go1.21.1)

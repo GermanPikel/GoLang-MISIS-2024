@@ -1,0 +1,1072 @@
+[Info  - 6:21:13 PM] 2024/10/03 18:21:13 go info for /home/student/projects
+(go dir /home/student/projects)
+(go version go version go1.21.1 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/student/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/student/go/pkg/mod, GOPATH=/home/student/go, GOPRIVATE=, GOROOT=/usr/local/go, GOWORK=])
+
+
+[Info  - 6:21:13 PM] 2024/10/03 18:21:13 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/student/projects
+	query=[/home/student/projects/... builtin]
+	packages=2
+
+[Info  - 6:21:13 PM] 2024/10/03 18:21:13 go/packages.Load #1: updating metadata for 43 packages
+
+[Error - 6:21:15 PM] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Error - 6:21:15 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:21:15 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 6:21:45 PM] 2024/10/03 18:21:45 background imports cache refresh starting
+
+[Info  - 6:21:45 PM] 2024/10/03 18:21:45 background refresh finished after 114.332108ms
+
+[Error - 6:52:38 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:38 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:39 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:39 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 6:53:09 PM] 2024/10/03 18:53:09 background imports cache refresh starting
+
+[Info  - 6:53:09 PM] 2024/10/03 18:53:09 background refresh finished after 17.493433ms
+
+[Error - 10:12:35 AM] Request textDocument/inlayHint failed.
+  Message: context canceled
+  Code: 0 
+[Error - 10:12:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:12:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:14:01 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:16:45 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:16:45 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:16:45 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:01 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:02 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:03 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:03 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:05 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:05 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:07 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:07 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:08 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:08 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:22 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #9
+	snapshot=10
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #9
+	snapshot=10
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #10
+	snapshot=10
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #10: updating metadata for 1 packages
+
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #10
+	snapshot=10
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:22 AM] 2024/10/04 10:17:22 go/packages.Load #9: updating metadata for 0 packages
+
+[Error - 10:17:22 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:24 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:24 AM] 2024/10/04 10:17:24 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found pa
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:17:24 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] 2024/10/04 10:17:25 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found packa
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:25 AM] 2024/10/04 10:17:25 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found packag
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:17:25 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:26 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:26 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:26 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:26 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #13
+	snapshot=23
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #12
+	snapshot=23
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #13
+	snapshot=23
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #12
+	snapshot=23
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #13: updating metadata for 1 packages
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #12: updating metadata for 0 packages
+
+[Error - 10:17:27 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #15
+	snapshot=24
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #15
+	snapshot=24
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #15: updating metadata for 1 packages
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #16
+	snapshot=25
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #16
+	snapshot=25
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #17
+	snapshot=25
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #17
+	snapshot=25
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #17: updating metadata for 1 packages
+
+[Info  - 10:17:27 AM] 2024/10/04 10:17:27 go/packages.Load #16: updating metadata for 0 packages
+
+[Error - 10:17:27 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:27 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:28 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:28 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:28 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:28 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:29 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:31 AM] 2024/10/04 10:17:31 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:3:1: expected declaration, found h
+	file="/home/student/projects/hw1/main.go"
+
+[Info  - 10:17:31 AM] 2024/10/04 10:17:31 background imports cache refresh starting
+
+[Info  - 10:17:31 AM] 2024/10/04 10:17:31 background refresh finished after 20.162088ms
+
+[Error - 10:17:31 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:32 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:32 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:32 AM] 2024/10/04 10:17:32 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:3:1: expected declaration, found h
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:17:32 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:32 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:33 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:33 AM] 2024/10/04 10:17:33 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:3:1: expected declaration, found h
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:17:33 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:33 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:43 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:44 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:45 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:45 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:46 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:17:46 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:18:05 AM] 2024/10/04 10:18:05 background imports cache refresh starting
+
+[Info  - 10:18:05 AM] 2024/10/04 10:18:05 background refresh finished after 7.458591ms
+
+[Error - 10:18:30 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:30 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:30 AM] 2024/10/04 10:18:30 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:3:1: expected declaration, found im
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:18:30 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:32 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:33 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:18:33 AM] 2024/10/04 10:18:33 go/packages.Load #20
+	snapshot=44
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:18:33 AM] 2024/10/04 10:18:33 go/packages.Load #20
+	snapshot=44
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:18:33 AM] 2024/10/04 10:18:33 go/packages.Load #20: updating metadata for 1 packages
+
+[Error - 10:18:33 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:34 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:18:34 AM] 2024/10/04 10:18:34 go/packages.Load #23
+	snapshot=47
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:18:34 AM] 2024/10/04 10:18:34 go/packages.Load #23
+	snapshot=47
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:18:34 AM] 2024/10/04 10:18:34 go/packages.Load #23: updating metadata for 1 packages
+
+[Error - 10:18:35 AM] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Error - 10:18:36 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:36 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:37 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:38 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:39 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:39 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:39 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:39 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:39 AM] 2024/10/04 10:18:39 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:5:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:18:39 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:40 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:41 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:41 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:42 AM] 2024/10/04 10:18:42 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:5:6: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:18:42 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:43 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:43 AM] 2024/10/04 10:18:43 no completions found: this is a definition of func m()
+	position=4:6
+
+[Error - 10:18:43 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:43 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:43 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:44 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:44 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:44 AM] 2024/10/04 10:18:44 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:5:10: expected '(', found newline (and 2 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:18:45 AM] 2024/10/04 10:18:45 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:5:10: expected '(', found newline (and 2 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:18:46 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:46 AM] 2024/10/04 10:18:46 no signature help: cannot find an enclosing function
+	position=4:10
+
+[Error - 10:18:46 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:47 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:48 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:48 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:48 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:49 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:49 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:50 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:50 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:50 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:50 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:50 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:51 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:51 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:52 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:52 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:52 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:52 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:52 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:53 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:53 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:53 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:54 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:54 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:54 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:54 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:55 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:57 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:57 AM] 2024/10/04 10:18:57 no signature help: no signature help within a string literal
+	position=5:14
+
+[Error - 10:18:57 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:58 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:58 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:58 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:58 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:58 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:59 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:18:59 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:00 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:00 AM] 2024/10/04 10:19:00 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:6:14: string literal not terminated (and 9 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:19:00 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:01 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:01 AM] 2024/10/04 10:19:01 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:6:14: string literal not terminated (and 9 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:19:01 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:01 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:02 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:02 AM] 2024/10/04 10:19:02 imports fixes: AllImportsFixes: /home/student/projects/hw1/main.go:6:14: string literal not terminated (and 9 more errors)
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:19:02 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:02 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:19:03 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:19:03 AM] 2024/10/04 10:19:03 background imports cache refresh starting
+
+[Info  - 10:19:03 AM] 2024/10/04 10:19:03 background refresh finished after 8.322078ms
+
+[Info  - 10:19:33 AM] 2024/10/04 10:19:33 background imports cache refresh starting
+
+[Info  - 10:19:33 AM] 2024/10/04 10:19:33 background refresh finished after 10.004254ms
+
+[Error - 10:20:52 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:52 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:53 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:54 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:55 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:55 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:59 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:20:59 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:21:22 AM] 2024/10/04 10:21:22 background imports cache refresh starting
+
+[Info  - 10:21:22 AM] 2024/10/04 10:21:22 background refresh finished after 9.407082ms
+
+[Error - 10:54:20 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:20 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:31 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #28
+	snapshot=103
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #28
+	snapshot=103
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #28: updating metadata for 1 packages
+
+[Error - 10:54:31 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #27
+	snapshot=103
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #27
+	snapshot=103
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:31 AM] 2024/10/04 10:54:31 go/packages.Load #27: updating metadata for 0 packages
+
+[Error - 10:54:33 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:33 AM] 2024/10/04 10:54:33 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found pa
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] 2024/10/04 10:54:34 no completions found: getting file file:///home/student/projects/hw1/main.go for Completion: %!w(<nil>) (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:4
+
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:34 AM] 2024/10/04 10:54:34 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found packa
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #31
+	snapshot=116
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #31
+	snapshot=116
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #31: updating metadata for 1 packages
+
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #30
+	snapshot=116
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #30
+	snapshot=116
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:35 AM] 2024/10/04 10:54:35 go/packages.Load #30: updating metadata for 0 packages
+
+[Error - 10:54:35 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #33
+	snapshot=117
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #32
+	snapshot=117
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #32
+	snapshot=117
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #33
+	snapshot=117
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #32: updating metadata for 1 packages
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #33: updating metadata for 0 packages
+
+[Error - 10:54:36 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #35
+	snapshot=118
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #35
+	snapshot=118
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #35: updating metadata for 1 packages
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #34
+	snapshot=118
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #34
+	snapshot=118
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:54:36 AM] 2024/10/04 10:54:36 go/packages.Load #34: updating metadata for 0 packages
+
+[Error - 10:54:36 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:37 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:37 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:37 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:37 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:54:38 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:55:06 AM] 2024/10/04 10:55:06 background imports cache refresh starting
+
+[Info  - 10:55:06 AM] 2024/10/04 10:55:06 background refresh finished after 8.585464ms
+
+[Error - 10:55:34 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:55:35 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:56:04 AM] 2024/10/04 10:56:04 background imports cache refresh starting
+
+[Info  - 10:56:04 AM] 2024/10/04 10:56:04 background refresh finished after 7.962422ms
+
+[Error - 10:58:02 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #37
+	snapshot=127
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #37
+	snapshot=127
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #37: updating metadata for 1 packages
+
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #38
+	snapshot=127
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #38
+	snapshot=127
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:02 AM] 2024/10/04 10:58:02 go/packages.Load #38: updating metadata for 0 packages
+
+[Error - 10:58:02 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:04 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:04 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:04 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:04 AM] 2024/10/04 10:58:04 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found pac
+	file="/home/student/projects/hw1/main.go"
+
+[Error - 10:58:04 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:04 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:05 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #40
+	snapshot=138
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #41
+	snapshot=138
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #41
+	snapshot=138
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #40
+	snapshot=138
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #41: updating metadata for 1 packages
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #40: updating metadata for 0 packages
+
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #42
+	snapshot=139
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #42
+	snapshot=139
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #42: updating metadata for 1 packages
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #43
+	snapshot=139
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #43
+	snapshot=139
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #43: updating metadata for 0 packages
+
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #45
+	snapshot=140
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #45
+	snapshot=140
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #45: updating metadata for 1 packages
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #44
+	snapshot=140
+	directory=file:///home/student/projects
+	package="command-line-arguments"
+	files=[/home/student/projects/hw1/main.go]
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #44
+	snapshot=140
+	directory=file:///home/student/projects
+	query=[file=/home/student/projects/hw1/main.go]
+	packages=1
+
+[Info  - 10:58:06 AM] 2024/10/04 10:58:06 go/packages.Load #44: updating metadata for 0 packages
+
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:06 AM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:58:07 AM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 10:58:36 AM] 2024/10/04 10:58:36 background imports cache refresh starting
+
+[Info  - 10:58:36 AM] 2024/10/04 10:58:36 background refresh finished after 8.098507ms
+
+[Info  - 11:01:03 AM] 2024/10/04 11:01:03 Shutdown session
+	shutdown_session=1
+
