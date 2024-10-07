@@ -7,3 +7,5 @@
 2024-10-07 16:45:59.931 [info] [127.0.0.1][3a6e5a60][ManagementConnection] New connection established.
 2024-10-07 16:46:00.127 [info] [127.0.0.1][e98118e2][ExtensionHostConnection] New connection established.
 2024-10-07 16:46:00.295 [info] [127.0.0.1][e98118e2][ExtensionHostConnection] <1087> Launched Extension Host Process.
+2024-10-07 21:27:55.792 [info] [127.0.0.1][e98118e2][ExtensionHostConnection] The client has reconnected.
+2024-10-07 21:27:55.906 [info] [127.0.0.1][3a6e5a60][ManagementConnection] The client has reconnected.

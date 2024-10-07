@@ -1,2 +1,158 @@
 2024-10-07 16:46:01.282 [info] Try to start language server - activation (enabled: true)
 2024-10-07 16:46:01.408 [info] Running language server gopls(v0.13.2/go1.21.1)
+2024-10-07 17:17:40.526 [info] Running checks...
+2024-10-07 17:17:40.527 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:17:40.992 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:17:40.992 [info] 
+2024-10-07 17:17:42.185 [info] Running checks...
+2024-10-07 17:17:42.185 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:17:42.439 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:17:42.439 [info] 
+2024-10-07 17:17:49.360 [info] Running checks...
+2024-10-07 17:17:49.360 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:17:51.880 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:17:51.880 [info] 
+2024-10-07 17:19:46.858 [info] Running checks...
+2024-10-07 17:19:46.858 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:47.110 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:47.110 [info] 
+2024-10-07 17:19:47.254 [info] Running checks...
+2024-10-07 17:19:47.254 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:47.482 [info] Running checks...
+2024-10-07 17:19:47.482 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:47.486 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:47.486 [info] 
+2024-10-07 17:19:47.675 [info] Running checks...
+2024-10-07 17:19:47.675 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:47.680 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:47.680 [info] 
+2024-10-07 17:19:47.860 [info] Running checks...
+2024-10-07 17:19:47.860 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:47.863 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:47.863 [info] 
+2024-10-07 17:19:48.052 [info] Running checks...
+2024-10-07 17:19:48.052 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:48.055 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:48.055 [info] 
+2024-10-07 17:19:48.163 [info] Running checks...
+2024-10-07 17:19:48.163 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:48.164 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:48.164 [info] 
+2024-10-07 17:19:48.348 [info] Running checks...
+2024-10-07 17:19:48.348 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:19:48.351 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:48.351 [info] 
+2024-10-07 17:19:48.597 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:19:48.597 [info] 
+2024-10-07 17:20:22.689 [info] Running checks...
+2024-10-07 17:20:22.689 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:20:25.454 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:20:25.454 [info] 
+2024-10-07 17:20:39.898 [info] Running checks...
+2024-10-07 17:20:39.899 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:20:40.412 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:20:40.412 [info] 
+2024-10-07 17:20:59.438 [info] Running checks...
+2024-10-07 17:20:59.438 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:20:59.901 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:20:59.901 [info] 
+2024-10-07 17:21:17.995 [info] Running checks...
+2024-10-07 17:21:17.995 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:21:18.297 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:21:18.297 [info] 
+2024-10-07 17:21:36.257 [info] Running checks...
+2024-10-07 17:21:36.257 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:21:36.534 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:21:36.534 [info] 
+2024-10-07 17:23:17.446 [info] Running checks...
+2024-10-07 17:23:17.446 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:23:17.766 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:23:17.766 [info] 
+2024-10-07 17:23:38.625 [info] Running checks...
+2024-10-07 17:23:38.625 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:23:39.103 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:23:39.103 [info] 
+2024-10-07 17:23:51.674 [info] Running checks...
+2024-10-07 17:23:51.674 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:23:52.134 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:23:52.134 [info] 
+2024-10-07 17:24:34.229 [info] Running checks...
+2024-10-07 17:24:34.229 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:24:34.494 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:24:34.494 [info] 
+2024-10-07 17:24:40.190 [info] Running checks...
+2024-10-07 17:24:40.190 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:24:40.697 [info] Running checks...
+2024-10-07 17:24:40.697 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:24:40.700 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:24:40.700 [info] 
+2024-10-07 17:24:41.177 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:24:41.177 [info] 
+2024-10-07 17:26:38.196 [info] Running checks...
+2024-10-07 17:26:38.196 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:26:38.466 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:26:38.466 [info] 
+2024-10-07 17:26:53.246 [info] Running checks...
+2024-10-07 17:26:53.246 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:26:53.755 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:26:53.755 [info] 
+2024-10-07 17:27:04.234 [info] Running checks...
+2024-10-07 17:27:04.234 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:27:04.701 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:27:04.701 [info] 
+2024-10-07 17:27:05.612 [info] Running checks...
+2024-10-07 17:27:05.612 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:27:06.092 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:27:06.092 [info] 
+2024-10-07 17:28:31.208 [info] Running checks...
+2024-10-07 17:28:31.208 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:28:31.437 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:28:31.437 [info] 
+2024-10-07 17:28:41.131 [info] Running checks...
+2024-10-07 17:28:41.131 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:28:41.622 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:28:41.622 [info] 
+2024-10-07 17:36:21.246 [info] Running checks...
+2024-10-07 17:36:21.246 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:36:21.554 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:36:21.554 [info] 
+2024-10-07 17:36:23.572 [info] Running checks...
+2024-10-07 17:36:23.573 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:36:24.068 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:36:24.068 [info] 
+2024-10-07 17:36:34.014 [info] Running checks...
+2024-10-07 17:36:34.014 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:36:34.518 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:36:34.518 [info] 
+2024-10-07 17:36:39.543 [info] Running checks...
+2024-10-07 17:36:39.543 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:36:40.066 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:36:40.066 [info] 
+2024-10-07 17:41:23.717 [info] Running checks...
+2024-10-07 17:41:23.717 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:41:23.992 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:41:23.992 [info] 
+2024-10-07 17:41:34.920 [info] Running checks...
+2024-10-07 17:41:34.920 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:41:35.449 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:41:35.449 [info] 
+2024-10-07 17:41:52.680 [info] Running checks...
+2024-10-07 17:41:52.680 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:41:53.180 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:41:53.180 [info] 
+2024-10-07 17:42:44.927 [info] Running checks...
+2024-10-07 17:42:44.927 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:42:45.383 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:42:45.383 [info] 
+2024-10-07 17:42:45.453 [info] Running checks...
+2024-10-07 17:42:45.453 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:42:45.956 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:42:45.956 [info] 
+2024-10-07 17:44:03.469 [info] Running checks...
+2024-10-07 17:44:03.469 [info] Starting linting the current package at /home/student/hw1/internal/pkg
+2024-10-07 17:44:03.996 [info] /home/student/hw1/internal/pkg>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:44:03.996 [info] 
+2024-10-07 17:44:10.053 [info] Running checks...
+2024-10-07 17:44:10.054 [info] Starting linting the current package at /home/student/hw1/cmd
+2024-10-07 17:44:12.803 [info] /home/student/hw1/cmd>Finished running tool: /home/student/go/bin/staticcheck
+2024-10-07 17:44:12.803 [info] 
