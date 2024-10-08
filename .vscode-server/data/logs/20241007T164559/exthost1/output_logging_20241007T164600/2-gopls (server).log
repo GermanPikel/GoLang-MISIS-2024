@@ -8448,3 +8448,193 @@ go: hw1/internal/pkg imports
 	go.uber.org/zap: cannot find module providing package go.uber.org/zap: module lookup disabled by GOPROXY=off
 
 
+[Info  - 10:08:00 PM] 2024/10/07 22:08:00 background imports cache refresh starting
+
+[Info  - 10:08:00 PM] 2024/10/07 22:08:00 background refresh finished after 9.38954ms
+
+[Error - 10:33:02 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:33:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:48:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:48:19 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 10:48:19 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:45:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:45:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:45:04 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:36 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:36 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:44 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:44 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:44 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:45 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:45 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:45 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:46 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:48 PM] 2024/10/08 17:48:48 tidy: diagnosing file:///home/student/hw1/go.mod: err: exit status 1: stderr: go: finding module for package go.uber.org/zap
+go: hw1/internal/pkg imports
+	go.uber.org/zap: cannot find module providing package go.uber.org/zap: module lookup disabled by GOPROXY=off
+
+
+[Error - 5:48:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:51 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:52 PM] 2024/10/08 17:48:52 tidy: diagnosing file:///home/student/hw1/go.mod: err: exit status 1: stderr: go: finding module for package go.uber.org/zap
+go: hw1/internal/pkg imports
+	go.uber.org/zap: cannot find module providing package go.uber.org/zap: module lookup disabled by GOPROXY=off
+
+
+[Error - 5:48:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:53 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:53 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:53 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:53 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:53 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:55 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:55 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:55 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:55 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:56 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:56 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:57 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:48:57 PM] 2024/10/08 17:48:57 tidy: diagnosing file:///home/student/hw1/go.mod: err: exit status 1: stderr: go: finding module for package go.uber.org/zap
+go: hw1/internal/pkg imports
+	go.uber.org/zap: cannot find module providing package go.uber.org/zap: module lookup disabled by GOPROXY=off
+
+

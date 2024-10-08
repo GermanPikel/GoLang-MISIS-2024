@@ -13085,3 +13085,402 @@
 	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
 	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
 	at process.processImmediate (node:internal/timers:483:21)
+2024-10-07 22:33:02.919 [error] [golang.go] provider FAILED
+2024-10-07 22:33:02.919 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-07 22:33:03.645 [error] [golang.go] provider FAILED
+2024-10-07 22:33:03.645 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-07 22:48:16.787 [error] [golang.go] provider FAILED
+2024-10-07 22:48:16.787 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-07 22:48:19.155 [error] [golang.go] provider FAILED
+2024-10-07 22:48:19.155 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-07 22:48:19.539 [error] [golang.go] provider FAILED
+2024-10-07 22:48:19.539 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:45:03.418 [error] [golang.go] provider FAILED
+2024-10-08 17:45:03.418 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:45:03.419 [error] [golang.go] provider FAILED
+2024-10-08 17:45:03.419 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:45:04.983 [error] [golang.go] provider FAILED
+2024-10-08 17:45:04.983 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:36.395 [error] [golang.go] provider FAILED
+2024-10-08 17:48:36.395 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:36.787 [error] [golang.go] provider FAILED
+2024-10-08 17:48:36.787 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:37.581 [error] [golang.go] provider FAILED
+2024-10-08 17:48:37.581 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:43.412 [error] [golang.go] provider FAILED
+2024-10-08 17:48:43.412 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:43.803 [error] [golang.go] provider FAILED
+2024-10-08 17:48:43.803 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:44.228 [error] [golang.go] provider FAILED
+2024-10-08 17:48:44.228 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:44.436 [error] [golang.go] provider FAILED
+2024-10-08 17:48:44.436 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:44.621 [error] [golang.go] provider FAILED
+2024-10-08 17:48:44.621 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:45.255 [error] [golang.go] provider FAILED
+2024-10-08 17:48:45.255 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:45.644 [error] [golang.go] provider FAILED
+2024-10-08 17:48:45.644 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:45.945 [error] [golang.go] provider FAILED
+2024-10-08 17:48:45.945 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:46.092 [error] [golang.go] provider FAILED
+2024-10-08 17:48:46.092 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:46.330 [error] [golang.go] provider FAILED
+2024-10-08 17:48:46.330 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:46.344 [error] [golang.go] provider FAILED
+2024-10-08 17:48:46.344 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:46.671 [error] [golang.go] provider FAILED
+2024-10-08 17:48:46.671 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:46.938 [error] [golang.go] provider FAILED
+2024-10-08 17:48:46.938 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.050 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.050 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.225 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.226 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.391 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.391 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.530 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.530 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.624 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.624 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:47.638 [error] [golang.go] provider FAILED
+2024-10-08 17:48:47.638 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:50.758 [error] [golang.go] provider FAILED
+2024-10-08 17:48:50.758 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.057 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.057 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.143 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.144 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.195 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.195 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.396 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.397 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.560 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.560 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:51.799 [error] [golang.go] provider FAILED
+2024-10-08 17:48:51.799 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:52.742 [error] [golang.go] provider FAILED
+2024-10-08 17:48:52.742 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:53.134 [error] [golang.go] provider FAILED
+2024-10-08 17:48:53.134 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:53.274 [error] [golang.go] provider FAILED
+2024-10-08 17:48:53.274 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:53.570 [error] [golang.go] provider FAILED
+2024-10-08 17:48:53.570 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:53.664 [error] [golang.go] provider FAILED
+2024-10-08 17:48:53.664 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:53.883 [error] [golang.go] provider FAILED
+2024-10-08 17:48:53.883 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.007 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.007 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.164 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.164 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.274 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.275 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.523 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.523 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.757 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.757 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.912 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.912 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:54.958 [error] [golang.go] provider FAILED
+2024-10-08 17:48:54.958 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:55.470 [error] [golang.go] provider FAILED
+2024-10-08 17:48:55.470 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:55.589 [error] [golang.go] provider FAILED
+2024-10-08 17:48:55.589 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:55.854 [error] [golang.go] provider FAILED
+2024-10-08 17:48:55.854 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:55.999 [error] [golang.go] provider FAILED
+2024-10-08 17:48:55.999 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:56.404 [error] [golang.go] provider FAILED
+2024-10-08 17:48:56.404 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:56.668 [error] [golang.go] provider FAILED
+2024-10-08 17:48:56.668 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-08 17:48:57.069 [error] [golang.go] provider FAILED
+2024-10-08 17:48:57.069 [error] Error: semantictokens are disabled
+	at handleResponse (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8606:40)
+	at handleMessage (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8416:11)
+	at processMessageQueue (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8431:13)
+	at Immediate.<anonymous> (/home/student/.vscode-server/extensions/golang.go-0.42.1/dist/goMain.js:8407:11)
+	at process.processImmediate (node:internal/timers:483:21)
